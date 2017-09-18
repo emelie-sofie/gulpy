@@ -1,0 +1,25 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "Testing gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "justdoit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emelie-sofie/gulpy.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "emelie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emelie-sofie/gulpy/issues"
+  },
+  "homepage": "https://github.com/emelie-sofie/gulpy#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
